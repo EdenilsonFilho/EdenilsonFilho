@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2192FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Edenilson+Filho;Eu+tenho+32+anos;Eu+moro+no+Brasil;Sou+Graduado+em+Ciência+da+Computação;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdenilsonFilho&show_icons=true&count_private=true&hide_border=true&title_color=2192FF&icon_color=2192FF&text_color=c9d1d9&bg_color=0d1117" alt="Edenilson Filho GitHub Status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdenilsonFilho&layout=compact&hide_border=true&title_color=2192FF&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdenilsonFilho&show_icons=true&count_private=true&hide_border=true&title_color=2192FF&icon_color=2192FF&text_color=c9d1d9&bg_color=000000" alt="Edenilson Filho GitHub Status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdenilsonFilho&layout=compact&hide_border=true&title_color=2192FF&text_color=ff91a4&bg_color=000000" />
 </div>
 
 
